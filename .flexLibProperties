@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="caurina.transitions.AuxFunctions"/>
+    <classEntry path="caurina.transitions.Equations"/>
+    <classEntry path="caurina.transitions.PropertyInfoObj"/>
+    <classEntry path="caurina.transitions.SpecialPropertyModifier"/>
+    <classEntry path="caurina.transitions.TweenListObj"/>
+    <classEntry path="caurina.transitions.Tweener"/>
+    <classEntry path="caurina.transitions.properties.ColorShortcuts"/>
+    <classEntry path="caurina.transitions.properties.CurveModifiers"/>
+    <classEntry path="caurina.transitions.properties.DisplayShortcuts"/>
+    <classEntry path="caurina.transitions.properties.FilterShortcuts"/>
+    <classEntry path="caurina.transitions.properties.SoundShortcuts"/>
+    <classEntry path="caurina.transitions.properties.TextShortcuts"/>
+    <classEntry path="itnix.flib.data.MenuItem"/>
+    <classEntry path="itnix.flib.data.TableItem"/>
+    <classEntry path="itnix.flib.data.TreeItem"/>
+    <classEntry path="itnix.flib.data.Version"/>
+    <classEntry path="itnix.flib.events.CanvasEvent"/>
+    <classEntry path="itnix.flib.events.MenuEvent"/>
+    <classEntry path="itnix.flib.events.TableEvent"/>
+    <classEntry path="itnix.flib.events.TreeEvent"/>
+    <classEntry path="itnix.flib.events.WindowEvent"/>
+    <classEntry path="itnix.flib.fonts.Fonts"/>
+    <classEntry path="itnix.flib.graphics.Canvas"/>
+    <classEntry path="itnix.flib.graphics.ViewStack"/>
+    <classEntry path="itnix.flib.graphics.layout.LayoutedContainer"/>
+    <classEntry path="itnix.flib.interfaces.IDataContainer"/>
+    <classEntry path="itnix.flib.net.HTTPLoader"/>
+    <classEntry path="itnix.flib.net.HTTPResponse"/>
+    <classEntry path="itnix.flib.net.HTTPResponseStatus"/>
+    <classEntry path="itnix.flib.net.HTTPService"/>
+    <classEntry path="itnix.flib.system.Application"/>
+    <classEntry path="itnix.flib.system.Direction"/>
+    <classEntry path="itnix.flib.system.MouseCursor"/>
+    <classEntry path="itnix.flib.system.MouseCursorMngr"/>
+    <classEntry path="itnix.flib.system.style.CornersRoundness"/>
+    <classEntry path="itnix.flib.system.style.Style"/>
+    <classEntry path="itnix.flib.ui.Button"/>
+    <classEntry path="itnix.flib.ui.CheckBox"/>
+    <classEntry path="itnix.flib.ui.HRule"/>
+    <classEntry path="itnix.flib.ui.ImageHolder"/>
+    <classEntry path="itnix.flib.ui.Label"/>
+    <classEntry path="itnix.flib.ui.List"/>
+    <classEntry path="itnix.flib.ui.Menu"/>
+    <classEntry path="itnix.flib.ui.MenuItemRenderer"/>
+    <classEntry path="itnix.flib.ui.MessageWindow"/>
+    <classEntry path="itnix.flib.ui.ProgressBar"/>
+    <classEntry path="itnix.flib.ui.TextInput"/>
+    <classEntry path="itnix.flib.ui.Tree"/>
+    <classEntry path="itnix.flib.ui.TreeItemRenderer"/>
+    <classEntry path="itnix.flib.ui.VRule"/>
+    <classEntry path="itnix.flib.ui.Window"/>
+    <classEntry path="itnix.flib.ui.renders.DefaultListRenderer"/>
+    <classEntry path="itnix.flib.ui.scrolls.ScrollBar"/>
+    <classEntry path="itnix.flib.ui.table.Table"/>
+    <classEntry path="itnix.flib.ui.table.TableColumn"/>
+    <classEntry path="itnix.flib.ui.table.TableItemRenderer"/>
+    <classEntry path="itnix.flib.utils.ixgeom"/>
+    <classEntry path="itnix.flib.system.Popups"/>
+    <classEntry path="itnix.flib.utils.Random"/>
+    <classEntry path="itnix.flib.utils.StackTrace"/>
+    <classEntry path="itnix.flib.utils.StackElement"/>
+    <classEntry path="itnix.flib.ix"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
